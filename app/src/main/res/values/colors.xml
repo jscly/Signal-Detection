@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2a2a2a</color>
+    <color name="colorPrimaryDark">#2a2a2a</color>
+    <color name="colorAccent">#7adacf</color>
+    <color name="background">#e8e8e8</color>
+    <color name="table">#d7d7d7</color>
+    <color name="tableLine">#b9b9b9</color>
+    <color name="signal1">#1dc628</color>
+    <color name="signal2">#91bf1c</color>
+    <color name="signal3">#cdcd20</color>
+    <color name="signal4">#d58d20</color>
+    <color name="signal5">#e64821</color>
+    <color name="signalBack">#c3c3c3</color>
+</resources>
